@@ -1,6 +1,6 @@
 # Hola! Mi nombre es Laura Arbeláez :cherry_blossom::crystal_ball:
 
-<img src="assets\lenguajes.jpg">
+<img src="assets\lenguajes.png">
 
 Soy una desarrolladora <span style="color:blue"><i>junior</i></span> front-end :computer:, graduada del CESDE :rocket:.
 
